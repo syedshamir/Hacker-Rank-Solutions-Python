@@ -19,17 +19,8 @@ Output Format
 
 Print the amount of money earned by .
 
-Sample Input
+![image](https://github.com/syedshamir/Hacker-Rank-Solutions-Python/assets/58033291/11501957-ba64-4235-970f-ab4cc0e4785a)
 
-10
-2 3 4 5 6 8 7 6 5 18
-6
-6 55
-6 45
-6 55
-4 40
-18 60
-10 50
 Sample Output
 
 200
